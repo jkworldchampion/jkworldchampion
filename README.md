@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjfghk5697&show_icons=true&theme=tokyonight)
+![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkworldchampion&show_icons=true&theme=tokyonight)
 <!--
 **jkworldchampion/jkworldchampion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
