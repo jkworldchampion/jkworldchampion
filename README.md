@@ -1,8 +1,8 @@
 ### Hi there 👋   
 ![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkworldchampion&show_icons=true&theme=tokyonight)
-### 🌱 I’m currently learning tensorflow and uml  
+### 🌱 I’m currently learning Backend
 ### 👯 I’m looking to collaborate on anything i can!!
-### 🤩 Please contact me, if you need my help.
+### 🤩 
 <!--
 **jkworldchampion/jkworldchampion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
