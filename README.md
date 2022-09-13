@@ -1,4 +1,4 @@
-### Hi there 👋   
+### 반갑습니다! 👋   
 ![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkworldchampion&show_icons=true&theme=solarized-light)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkworldchampion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
