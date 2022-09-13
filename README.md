@@ -1,10 +1,9 @@
 ### Hi there 👋   
-![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkworldchampion&show_icons=true&theme=tokyonight)
+![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkworldchampion&show_icons=true&theme=solarized-light)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkworldchampion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 안녕하세요 저는 현재 데이터분석(머신러닝)을 가장 중점으로 두고 있으며, 
-###           백엔드도 함께 공부하고 있습니다.
+### 🌱 안녕하세요 저는 현재 데이터분석(머신러닝)을 공부중입니다.
 
 ### 👯 현재는 군복무 중이며(~23. 4.22.) 사지방의 컴퓨터를 통해 공부하고 있습니다.
 
