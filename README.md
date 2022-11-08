@@ -9,7 +9,7 @@
 
 ### 🤩 가장 좋아하는 언어는 python이며, Javascript로 프로젝트를 진행한 경험도 있습니다.
 
-### ⚡ 현재는 국방오픈소스아카데미에서 주최하는 해커톤에 참여중입니다. 
+### ⚡ . 
 <!--
 **jkworldchampion/jkworldchampion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
