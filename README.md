@@ -28,7 +28,7 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTroch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>  
-
+<br>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
