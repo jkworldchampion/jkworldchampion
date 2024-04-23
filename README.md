@@ -18,6 +18,8 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
 - 2024
   - [ICONS lab](https://sites.google.com/view/iconslab/home) Intern
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 <div align=center>  
   
 🌱Skill  
