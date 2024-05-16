@@ -17,6 +17,7 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
 - 2023
   - 2023 SW개발 직무부트캠프 벡엔드 과정 수료 (COMENTO 주관)
 - 2024
+  - DSAC (Data Scientist Academy & Certificate) - M7 SEAT 1, 2
   - [ICONS lab](https://sites.google.com/view/iconslab/home) Intern
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
