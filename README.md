@@ -15,6 +15,7 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
 - 2022
   - 2022 OSAM Hackathon - Second Prize(정보통신산업진흥원장)
 - 2023
+  - 2023 SW개발 직무부트캠프 벡엔드 과정 수료 (COMENTO 주관)
 - 2024
   - [ICONS lab](https://sites.google.com/view/iconslab/home) Intern
 
