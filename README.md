@@ -44,8 +44,8 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkworldchampion)](https://solved.ac/jkworldchampion)
 
-![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkworldchampion&show_icons=true&theme=solarized-light)
-
+<!-- ![Juhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkworldchampion&show_icons=true&theme=solarized-light)
+-->
 </div>
 
 
