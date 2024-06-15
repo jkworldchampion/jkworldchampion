@@ -19,6 +19,7 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
 - 2024
   - DSAC (Data Scientist Academy & Certificate) - M7 SEAT 1, 2
   - [ICONS lab](https://sites.google.com/view/iconslab/home) Intern
+  - [HYUNDAI MOTOR CHUNG MONG-KOO FOUNDATION](https://www.cmkfoundation-scholarship.org) scholarship student 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
