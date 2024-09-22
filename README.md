@@ -20,7 +20,7 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
   - DSAC (Data Scientist Academy & Certificate) - M7 SEAT 1, 2
   - [ICONS lab](https://sites.google.com/view/iconslab/home) Intern
   - sponsored by [HYUNDAI MOTOR CHUNG MONG-KOO FOUNDATION](https://www.cmkfoundation-scholarship.org)
-  - joining at PyTorch Korea, translating open-source project  
+  - joining at [PyTorch Korea](https://github.com/PyTorchKorea), translating open-source project  
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
