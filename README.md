@@ -10,8 +10,7 @@ I'm currently studying computer engineering at Ajou University. Personally, I'm 
 ### 🏅Awards    
 - 2021
   - Technology-Based Entrepreneurship Capstone Design Competition - First Prize
-  - '사용자 개인 의류 사진을 이용한 패션 코디 추천 시스템 및 그 방법'으로 특허 출원(
-10-2021-0181723)
+  - '사용자 개인 의류 사진을 이용한 패션 코디 추천 시스템 및 그 방법'으로 특허 출원 및 등록( 10-2021-0181723)
 - 2022
   - 2022 OSAM Hackathon - Second Prize(정보통신산업진흥원장)
 - 2023
