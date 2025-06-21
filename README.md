@@ -5,7 +5,7 @@
 
 
 ### Hello World! 👋
-I'm currently studying computer engineering at Ajou University. Personally, I'm deeply interested in machine learning and deep learning. I'm also working as an intern at the IONS laboratory, which focuses on studying indoor positioning using UWB technology. My tasks involve receiving, visualizing, and analyzing data, and then providing location values and visualization values based on the analysis. Moving forward, I plan to apply machine learning and deep learning techniques to the UWB data.
+I am Juhwan Park, specializing in computer vision and deep learning. My research primarily focuses on video-based monocular depth estimation and temporal consistency, balancing theoretical rigor with practical implementation. I've optimized various CNN and Transformer architectures, emphasizing efficient GPU resource utilization. Experienced in handling diverse datasets, I consistently seek methods to enhance model performance. My goal is to pursue graduate studies, contributing deeply to solving practical challenges through advanced research.
 
 ### 🏅Awards    
 - 2021
